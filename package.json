@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@uniswap/default-token-list": "^4.1.0",
+    "bignumber.js": "^9.1.0",
+    "qs": "^6.11.0",
+    "web3": "^1.7.5"
+  }
+}
